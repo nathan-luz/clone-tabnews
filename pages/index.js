@@ -8,7 +8,7 @@ function Home() {
           content="width=device-width, initial-scale=1.0"
         ></meta>
         <meta http-equiv="X-UA-Compatible" content="ie=edge"></meta>
-        <title>BootstrapDash Comingsoon Template</title>
+        <title>Nathan Luz Page</title>
         <link
           href="https://fonts.googleapis.com/css?family=Karla:400,700&display=swap"
           rel="stylesheet"
