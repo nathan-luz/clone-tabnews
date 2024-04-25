@@ -28,7 +28,7 @@ function Home() {
           <div class="container">
             <nav class="navbar navbar-dark bg-transparenet">
               <a class="navbar-brand" href="#">
-                <img src="assets/images/profile.png" alt="logo"></img>
+                <img src="assets/images/profile.ico" alt="logo"></img>
               </a>
               <span class="navbar-text ml-auto d-none d-sm-inline-block">
                 9844 95710{" "}
