@@ -31,17 +31,17 @@ function Home() {
                 <img src="assets/images/logo.svg" alt="logo"></img>
               </a>
               <span class="navbar-text ml-auto d-none d-sm-inline-block">
-                978-130-5444{" "}
+                9844 95710{" "}
               </span>
               <span class="navbar-text d-none d-sm-inline-block">
-                jerald_glover@glennie.tv
+                nathan_luz@icloud.com
               </span>
             </nav>
           </div>
         </header>
         <main class="my-auto">
           <div class="container">
-            <h1 class="page-title">We're coming soon</h1>
+            <h1 class="page-title">Personal blog comming here...</h1>
             <p class="page-description">
               Working on finishing this development here.
             </p>
